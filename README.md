@@ -98,6 +98,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -107,4 +108,9 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
