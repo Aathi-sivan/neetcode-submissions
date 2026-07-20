@@ -94,6 +94,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0169-majority-element](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,4 +122,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
