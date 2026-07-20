@@ -92,16 +92,19 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0242-valid-anagram) |
 ## String
@@ -112,5 +115,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0383-ransom-note) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aathi-sivan/neetcode-submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
